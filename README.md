@@ -1,4 +1,4 @@
-# Zomato Sales Dashboard 📊 | Power BI  
+# Zomato Sales Dashboard
 
 The **Zomato Sales Dashboard** is an interactive **Power BI** solution designed to analyze and visualize key business metrics for Zomato's sales performance. This dashboard provides valuable insights into **revenue trends, customer behavior, top-performing restaurants, and order analysis**, helping businesses make **data-driven decisions** to optimize sales and operations.  
 
