@@ -27,7 +27,7 @@ The **Zomato Sales Dashboard** is an interactive **Power BI** solution designed 
 <a href="https://github.com/singhrohanjr01/Zomato-Sales-Dashboard/blob/520d2da409a4cb32d36f8cf93dccb0aab65b4839/Sales%20Per%20City.png">Sales Per City</a> 
 
 ## 📂 Installation & Usage  
-1. Download the **.pbix** file from the repository.<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/2144d429113d8202c76571d55f19860ced7d2a50/HR%20ANALYTICS%20DASHBOARD.pbix">(PBIX FILE)</a>  
+1. Download the **.pbix** file from the repository.<a href="https://github.com/singhrohanjr01/Zomato-Sales-Dashboard/releases/download/ZSD/Zomato.Dashboard.pbix">(PBIX FILE)</a>  
 2. Open it in **Power BI Desktop**.  
 3. Connect to your HR dataset (if required) and refresh the dashboard.  
 4. Explore the insights using interactive filters and reports.  
