@@ -16,7 +16,7 @@ The **Zomato Sales Dashboard** is an interactive **Power BI** solution designed 
 - **Excel/SQL** (if applicable) – For data extraction and transformation  
 
 ## DataSet Used
-<a href="https://github.com/singhrohanjr01/HR-Analytics-Dashboard/blob/feb6bf6767f6c409994fece7e01185fd77966bf5/HR_Analytics.csv">H</a>
+<a href="https://github.com/singhrohanjr01/Zomato-Sales-Dashboard/releases/download/ZSD/Data.Sets.zip">DataSets ZIP File</a>
 ## 📸 Dashboard Preview  
 <a href="https://github.com/singhrohanjr01/Zomato-Sales-Dashboard/blob/520d2da409a4cb32d36f8cf93dccb0aab65b4839/Full%20View.png">Full View</a>
 
